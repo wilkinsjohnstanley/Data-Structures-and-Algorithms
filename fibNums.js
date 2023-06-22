@@ -29,3 +29,6 @@ console.log(fibonacci(8))
 console.log(fibonacci(9)) 
 console.log(fibonacci(10)) 
 
+//Big O = O(n)
+//It is Linear Time Complexity. As n gets bigger, so does the time complexity.
+
