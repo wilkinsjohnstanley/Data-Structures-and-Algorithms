@@ -2,20 +2,6 @@
 Factorial of a number
 Problem: Given an integer 'n', find the factorial of that integer.
 It is the product of all the positive integers less than or equal to it.
-
-my attempt before giving up:
-
-function fact(n){
-    for(var i=n; i >= 1; i--){ // less than sign only = 12, less than/equal to =12
-       if (i>=1){
-        var f = n*(n-1);
-       }
-       else {
-        return f;
-       } 
-    }
-}
-
 */
 //correct solution:
 
