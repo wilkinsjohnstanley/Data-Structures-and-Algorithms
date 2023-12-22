@@ -2,8 +2,9 @@
 Factorial of a number
 Problem: Given an integer 'n', find the factorial of that integer.
 It is the product of all the positive integers less than or equal to it.
+correct solution:
 */
-//correct solution:
+
 
 function fact(n){
     let result = 1;  //start from 1
