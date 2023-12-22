@@ -3,10 +3,10 @@ Fibonacci sequence: Give a number 'n', find the first 'n' elements of the Fibona
 In math, it's a sequence where each number is the num of the two previous ones.
 The first two nums are 0 and 1.
 
-fibonacci(2) = 0,1
-fibonacci(3) = 0,1,1
-fibonacci(7) = 0,1,1,2,3,5,8
-fibonacci(12) = 0,1,1,2,3,5,8,13,21,34,55,89
+ fibonacci(2) = 0,1
+ fibonacci(3) = 0,1,1
+ fibonacci(7) = 0,1,1,2,3,5,8
+ fibonacci(12) = 0,1,1,2,3,5,8,13,21,34,55,89
 */
 
 function fibonacci(n){
